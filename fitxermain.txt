@@ -1,2 +1,4 @@
 fitxer per actualitzar
 numero2
+..
+
